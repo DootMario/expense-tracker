@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Deep Code ###
+.deepcode
+AGENTS.md
